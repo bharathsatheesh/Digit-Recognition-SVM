@@ -1,0 +1,13 @@
+Name: Bharath Satheesh
+Login: cs189-he
+SID:24543065
+
+How to run?
+1) Typing in Question12 runs both problem 1 and problem 2. It plots the error data and returns the 7 confusion matrices in order k = 100,200,500,1000,2000,5000,10000.
+The coloring of the confusion matrices also happen which is recorded in the other file
+
+3) Typing in Question3 runs question 3. I used a time step of 0.1, because it was advertised as better!
+
+4) Typing in Question4 should run this question, It uses almost the same principles as question 3.My initial subset here as well as in Q3 is 772 for convinience.
+
+5) I just changed my testing file for Kaggle
